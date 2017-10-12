@@ -1,1 +1,4 @@
-this is a stash test.
+i am insert something
+
+but i meet a bug
+
